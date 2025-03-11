@@ -21,5 +21,5 @@ This Flutter project implements **live video streaming** using the **ZEGOCLOUD S
 3️⃣ **Audience joins the stream** to watch in real-time.  
 4️⃣ **Users can leave/join anytime.**  
 
-![Live Streaming Demo](video/live_stream_demo.gif)
+![Live Streaming Demo](live_stream_demo.gif)
 
