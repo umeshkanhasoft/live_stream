@@ -8,7 +8,7 @@ This Flutter project implements **live video streaming** using the **ZEGOCLOUD S
 ✔ **Live Video & Audio Streaming** (Low Latency)  
 ✔ **Role Selection** (Host & Audience)  
 ✔ **Real-time Interaction** (Chat, Reactions)  
-✔ **Cross-Platform Support** (Android, iOS, Web)  
+✔ **Cross-Platform Support** (Android, iOS)  
 ✔ **Secure & Scalable Streaming**  
 
 
